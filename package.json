@@ -1,0 +1,25 @@
+{
+  "name": "mushraf",
+  "version": "1.0.0",
+  "main": "page1.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.13",
+    "@types/react-router-dom": "^5.3.3",
+    "typescript": "^4.6.2"
+  },
+  "description": ""
+}
